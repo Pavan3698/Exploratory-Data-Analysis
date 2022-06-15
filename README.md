@@ -14,13 +14,10 @@ How to calculate columns using DAX
 
 You can find the Power BI report here.
 
-File overview:
-
-* (docs/Olympics.pbix)
+* Olympics.pbix
 
 
 ### Data
-
 
 * athlete_events.csv - contains information on athletes who competed in the Olympics.
 * noc_regions.csv - contains information on how national olympic committee codes map to country names.
