@@ -1,8 +1,8 @@
-# ** Exploratory-Data-Analysis **
+# **Exploratory-Data-Analysis**
 ## Analysing The Olympics
 ## Project Overview
 
-In this project, we Will be Doing  data visualization and data cleaning using Microsoft Power BI and also cover DAX, the M language, the Power Query editor, and visualization.
+In this project, we will be Doing  Data Visualization and Data Cleaning using Microsoft Power BI and also cover DAX, the M language, the Power Query editor, and visualization.
 
 In this project, we will gain an understanding of:
 
@@ -16,7 +16,7 @@ You can find the Power BI report here.
 
 File overview:
 
-* [Olympics.pbix]({{file name='Olympics.pbix'}})
+* (docs/Olympics.pbix)
 
 
 ### Data
