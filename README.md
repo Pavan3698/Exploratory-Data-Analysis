@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# ** Exploratory-Data-Analysis **
 ## Analysing The Olympics
 ## Project Overview
 
@@ -10,16 +10,16 @@ How to import data into Power BI
 How to transform and clean data using Power Query and the M language
 How to model relations
 How to calculate columns using DAX
-## Code
+### Code
 
 You can find the Power BI report here.
 
 File overview:
 
-[Olympics.pbix]
+[Olympics.pbix]({{file name='Olympics.pbix'}})
 
 
-## Data
+### Data
 
 
 * athlete_events.csv - contains information on athletes who competed in the Olympics.
@@ -27,7 +27,7 @@ File overview:
 * country_population.csv - contains information on the population of each country.
 * The Olympic and NOC data is originally from Kaggle. The population data is from the World Bank.
 
-## Steps
+### Steps
 
 * Data exploration - load the data in and explore it by creating visualizations
 * Importing NOC data - load in information matching NOC codes to the actual country name. We'll then model the relationship.
