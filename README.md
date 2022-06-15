@@ -16,7 +16,7 @@ You can find the Power BI report here.
 
 File overview:
 
-[Olympics.pbix]({{file name='Olympics.pbix'}})
+* [Olympics.pbix]({{file name='Olympics.pbix'}})
 
 
 ### Data
